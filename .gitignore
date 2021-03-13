@@ -1,0 +1,4 @@
+win/bin
+win/openssl
+win/openssl.*
+win/openssl-*
