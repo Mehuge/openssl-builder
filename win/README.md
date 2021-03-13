@@ -44,10 +44,10 @@ Build output
 | ---------------------------- | ----- | ------ | ------- |
 | openssl-win32-static-debug   | 32bit | no     | no      |
 | openssl-win32-static-release | 32bit | no     | yes     |
-| openssl-win32-DLL-debug      | 32bit | no     | no      |
-| openssl-win32-DLL-release    | 32bit | no     | yes     |
+| openssl-win32-DLL-debug      | 32bit | yes    | no      |
+| openssl-win32-DLL-release    | 32bit | yes    | yes     |
 | | | | |
 | openssl-win64-static-debug   | 64bit | no     | no      |
 | openssl-win64-static-release | 64bit | no     | yes     |
-| openssl-win64-DLL-debug      | 64bit | no     | no      |
-| openssl-win64-DLL-release    | 64bit | no     | yes     |
+| openssl-win64-DLL-debug      | 64bit | yes    | no      |
+| openssl-win64-DLL-release    | 64bit | yes    | yes     |
